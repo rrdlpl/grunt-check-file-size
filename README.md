@@ -1,6 +1,6 @@
-# grunt-checkFileSize
+# grunt-check-file-size
 
-> The best Grunt plugin ever.
+> A proof of concept of how to do a plugin for grunt.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
